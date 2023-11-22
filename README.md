@@ -1,7 +1,21 @@
 # Django 教程
 
-[b站视频](https://www.bilibili.com/video/BV1vK4y1o7jH/?share_source=copy_web&vd_source=ca57f675b90d38d9c0a2aa592ca4f29e)
+- [课程意义](#课程意义)
+- [准备环境](#准备环境)
+- [课程内容](#课程内容)
+- [评分标准](#评分标准)
 
-目录
+---
 
-- [Day 01](md/01.md)
+## 课程意义
+
+## 准备环境
+
+- Python 环境: [Anaconda](https://www.anaconda.com/download)
+- 编辑器: [VS Code](https://code.visualstudio.com/Download) / [PyCharm](https://www.jetbrains.com/pycharm/download/)
+
+## 课程内容
+
+1. [Django 介绍](/md/01/README.md)
+
+## 评分标准
